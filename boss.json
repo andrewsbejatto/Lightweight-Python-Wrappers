@@ -8,7 +8,5 @@
 		"./packages/P4DPyPackage.dproj",
 		"./packages/dclP4DPyPackage.dproj"
 	],
-	"dependencies": {
-		"https://github.com/embarcadero/pythonenviroments": "^v0.0.1-alpha"
-	}
+	"dependencies": {}
 }
